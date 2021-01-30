@@ -1,0 +1,2 @@
+#protecting bot tokens & guild name/id
+bot/.env
